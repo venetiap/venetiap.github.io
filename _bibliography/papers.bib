@@ -1,11 +1,114 @@
 ---
-  html={},
-  google_scholar_id = {},
-  preview={},
-  doi= {},
-  abstract={}
 ---
+@article{pliatsika2024sharp,
+  title={We need to explain our explanations},
+  author={Pliatsika, Venetia},
+  journal={Preprint},
+  year={2026},
+  selected={true},
+  pdf={We_need_to_explain_our_explanations.pdf},
+  preview={explainability_card.png},
+  abstract={Shapley values, derived from cooperative game theory, are widely used in machine
+learning to design, audit, and recommend recourse for complex models. A wide va-
+riety of implementations has resulted in explanation multiplicity, the phenomenon
+where multiple contradictory Shapley value explanations can be derived for the
+same model and data instance. In this position paper, we argue that an explanation
+is mathematically underspecified without a formal definition of context of use and
+a corresponding disclosure of technical assumptions. To enable both goals, we in-
+troduce a generalized definition of Shapley values and use it to reframe multiplicity
+as a parametrization problem. Using this unified parametrization, we propose a
+roadmap for the entire explanation lifecycle, calling focus on two primary research
+directions. First, we posit that context of use is a formal input to the explanatory
+process. As such, we require rigorous guidelines to map stakeholder questions
+to specific mathematical parameters. Second, we argue that an explanation is
+incomplete without a meta-explanation: a structured disclosure of the underlying
+assumptions and implementation choices used in its construction. As a step towards
+this second direction, we propose the Shapley Value Explainability Card. Finally,
+we demonstrate through several examples how each parameter choice implies
+specific mathematical assumptions about the data or the explanation’s intended use,
+and provide a detailed call to action towards a more transparent and context-aware
+explanation lifecycle}
+}
+@article{pliatsika2024sharp,
+  title={ShaRP: Explaining Rankings and Preferences with Shapley Values},
+  author={Pliatsika, Venetia and Fonseca, Joao and Akhynko, Kateryna and Shevchenko, Ivan and Stoyanovich, Julia},
+  journal={arXiv preprint arXiv:2401.16744},
+  year={2024},
+  selected={true},
+  html={https://arxiv.org/abs/2401.16744},
+  google_scholar_id = {LkGwnXOMwfcC},
+  preview={sharp.png},
+  doi= {10.48550/arXiv.2401.16744},
+  abstract={Algorithmic decisions in critical domains such as hiring, college admissions, and lending are often based on rankings. Given the impact of these decisions on individuals, organizations, and population groups, it is essential to understand them - to help individuals improve their ranking position, design better ranking procedures, and ensure legal compliance. In this paper, we argue that explainability methods for classification and regression, such as SHAP, are insufficient for ranking tasks, and present ShaRP - Shapley Values for Rankings and Preferences - a framework that explains the contributions of features to various aspects of a ranked outcome. ShaRP computes feature contributions for various ranking-specific profit functions, such as rank and top-k, and also includes a novel Shapley value-based method for explaining pairwise preference outcomes. We provide a flexible implementation of ShaRP, capable of efficiently and comprehensively explaining ranked and pairwise outcomes over tabular data, in score-based ranking and learning-to-rank tasks. Finally, we develop a comprehensive evaluation methodology for ranking explainability methods, showing through qualitative, quantitative, and usability studies that our rank-aware QoIs offer complementary insights, scale effectively, and help users interpret ranked outcomes in practice.}
+}
 
+@inproceedings{hwang2025shap,
+  title={Shap-based explanations are sensitive to feature representation},
+  author={Hwang, Hyunseung and Bell, Andrew and Fonseca, Joao and Pliatsika, Venetia and Stoyanovich, Julia and Whang, Steven Euijong},
+  booktitle={Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency},
+  pages={1588--1601},
+  year={2025},
+  html={https://dl.acm.org/doi/full/10.1145/3715275.3732105},
+  google_scholar_id = {_FxGoFyzp5QC},
+  preview={shap_attack.jpg},
+  doi= {10.1145/3715275.373210},
+  abstract={Local feature-based explanations are a key component of the XAI toolkit. These explanations compute feature importance values relative to an “interpretable” feature representation. In tabular data, feature values themselves are often considered interpretable. This paper examines the impact of data engineering choices on local feature-based explanations. We demonstrate that simple, common data engineering techniques, such as representing age with a histogram or encoding race in a specific way, can manipulate feature importance as determined by popular methods like SHAP. Notably, the sensitivity of explanations to feature representation can be exploited by adversaries to obscure issues like discrimination. While the intuition behind these results is straightforward, their systematic exploration has been lacking. Previous work has focused on adversarial attacks on feature-based explainers by biasing data or manipulating models. To the best of our knowledge, this is the first study demonstrating that explainers can be misled by standard, seemingly innocuous data engineering techniques.}
+}
+
+@article{cherlin2024subcellular,
+  title={The subcellular distribution of miRNA isoforms, tRNA-derived fragments, and rRNA-derived fragments depends on nucleotide sequence and cell type},
+  author={Cherlin, Tess and Jing, Yi and Shah, Siddhartha and Kennedy, Anne and Telonis, Aristeidis G and Pliatsika, Venetia and Wilson, Haley and Thompson, Lily and Vlantis, Panagiotis I and Loher, Phillipe and others},
+  journal={BMC biology},
+  volume={22},
+  number={1},
+  pages={205},
+  year={2024},
+  publisher={Springer},
+  html={https://link.springer.com/article/10.1186/s12915-024-01970-6},
+  google_scholar_id = {WF5omc3nYNoC},
+  preview={rrna_cell_type.webp},
+  doi= {10.1186/s12915-024-01970-6},
+  abstract={Background:
+MicroRNA isoforms (isomiRs), tRNA-derived fragments (tRFs), and rRNA-derived fragments (rRFs) represent most of the small non-coding RNAs (sncRNAs) found in cells. Members of these three classes modulate messenger RNA (mRNA) and protein abundance and are dysregulated in diseases. Experimental studies to date have assumed that the subcellular distribution of these molecules is well-understood, independent of cell type, and the same for all isoforms of a sncRNA.
+
+Results:
+We tested these assumptions by investigating the subcellular distribution of isomiRs, tRFs, and rRFs in biological replicates from three cell lines from the same tissue and same-sex donors that model the same cancer subtype. In each cell line, we profiled the isomiRs, tRFs, and rRFs in the nucleus, cytoplasm, whole mitochondrion (MT), mitoplast (MP), and whole cell. Using a rigorous mathematical model we developed, we accounted for cross-fraction contamination and technical errors and adjusted the measured abundances accordingly. Analyses of the adjusted abundances show that isomiRs, tRFs, and rRFs exhibit complex patterns of subcellular distributions. These patterns depend on each sncRNA’s exact sequence and the cell type. Even in the same cell line, isoforms of the same sncRNA whose sequences differ by a few nucleotides (nts) can have different subcellular distributions.
+
+Conclusions:
+SncRNAs with similar sequences have different subcellular distributions within and across cell lines, suggesting that each isoform could have a different function. Future computational and experimental studies of isomiRs, tRFs, and rRFs will need to distinguish among each molecule’s various isoforms and account for differences in each isoform’s subcellular distribution in the cell line at hand. While the findings add to a growing body of evidence that isomiRs, tRFs, rRFs, tRNAs, and rRNAs follow complex intracellular trafficking rules, further investigation is needed to exclude alternative explanations for the observed subcellular distribution of sncRNAs.}
+}
+
+@article{pliatsika2024minrbase,
+  title={MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)},
+  author={Pliatsika, Venetia and Cherlin, Tess and Loher, Phillipe and Vlantis, Panagiotis and Nagarkar, Parth and Nersisyan, Stepan and Rigoutsos, Isidore},
+  journal={Nucleic Acids Research},
+  volume={52},
+  number={D1},
+  pages={D229--D238},
+  year={2024},
+  publisher={Oxford University Press},
+  html={https://academic.oup.com/nar/article/52/D1/D229/7318122?guestAccessKey=},
+  google_scholar_id = {YsMSGLbcyi4C},
+  preview={minrbase.jpeg},
+  doi= {10.1093/nar/gkad833},
+  abstract={We describe the Mitochondrial and Nuclear rRNA fragment database (MINRbase), a knowledge repository aimed at facilitating the study of ribosomal RNA-derived fragments (rRFs). MINRbase provides interactive access to the profiles of 130 238 expressed rRFs arising from the four human nuclear rRNAs (18S, 5.8S, 28S, 5S), two mitochondrial rRNAs (12S, 16S) or four spacers of 45S pre-rRNA. We compiled these profiles by analyzing 11 632 datasets, including the GEUVADIS and The Cancer Genome Atlas (TCGA) repositories. MINRbase offers a user-friendly interface that lets researchers issue complex queries based on one or more criteria, such as parental rRNA identity, nucleotide sequence, rRF minimum abundance and metadata keywords (e.g. tissue type, disease). A ‘summary’ page for each rRF provides a granular breakdown of its expression by tissue type, disease, sex, ancestry and other variables; it also allows users to create publication-ready plots at the click of a button. MINRbase has already allowed us to generate support for three novel observations: the internal spacers of 45S are prolific producers of abundant rRFs; many abundant rRFs straddle the known boundaries of rRNAs; rRF production is regimented and depends on ‘personal attributes’ (sex, ancestry) and ‘context’ (tissue type, tissue state, disease). MINRbase is available at https://cm.jefferson.edu/MINRbase/.}
+}
+
+@article{shigematsu2021rnase,
+  title={RNase $\kappa$ promotes robust piRNA production by generating 2′, 3′-cyclic phosphate-containing precursors},
+  author={Shigematsu, Megumi and Kawamura, Takuya and Morichika, Keisuke and Izumi, Natsuko and Kiuchi, Takashi and Honda, Shozo and Pliatsika, Venetia and Matsubara, Ryuma and Rigoutsos, Isidore and Katsuma, Susumu and others},
+  journal={Nature Communications},
+  volume={12},
+  number={1},
+  pages={4498},
+  year={2021},
+  publisher={Nature Publishing Group UK London},
+  html={https://www.nature.com/articles/s41467-021-24681-w},
+  google_scholar_id = {Y0pCki6q_DkC},
+  preview={pirna.png},
+  doi= {10.1038/s41467-021-24681-w},
+  abstract={In animal germlines, PIWI proteins and the associated PIWI-interacting RNAs (piRNAs) protect genome integrity by silencing transposons. Here we report the extensive sequence and quantitative correlations between 2′,3′-cyclic phosphate-containing RNAs (cP-RNAs), identified using cP-RNA-seq, and piRNAs in the Bombyx germ cell line and mouse testes. The cP-RNAs containing 5′-phosphate (P-cP-RNAs) identified by P-cP-RNA-seq harbor highly consistent 5′-end positions as the piRNAs and are loaded onto PIWI protein, suggesting their direct utilization as piRNA precursors. We identified Bombyx RNase Kappa (BmRNase κ) as a mitochondria-associated endoribonuclease which produces cP-RNAs during piRNA biogenesis. BmRNase κ-depletion elevated transposon levels and disrupted a piRNA-mediated sex determination in Bombyx embryos, indicating the crucial roles of BmRNase κ in piRNA biogenesis and embryonic development. Our results reveal a BmRNase κ-engaged piRNA biogenesis pathway, in which the generation of cP-RNAs promotes robust piRNA production.}
+}
 
 @article{loher2021isomirmap,
   title={IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets},
@@ -156,34 +259,4 @@ Off-Spotter is very fast and flexible and can help in the design of optimal gRNA
 Reviewed:
 
 This article was reviewed by Dr Eugene Koonin and Dr Frank Eisenhaber.}
-}
-
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
 }
