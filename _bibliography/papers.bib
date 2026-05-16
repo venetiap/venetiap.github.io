@@ -1,6 +1,59 @@
 ---
-  
 ---
+
+
+@article{loher2021isomirmap,
+  title={IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets},
+  author={Loher, Phillipe and Karathanasis, Nestoras and Londin, Eric and F. Bray, Paul and Pliatsika, Venetia and Telonis, Aristeidis G and Rigoutsos, Isidore},
+  journal={Bioinformatics},
+  volume={37},
+  number={13},
+  pages={1828--1838},
+  year={2021},
+  publisher={Oxford University Press},
+  html={https://academic.oup.com/bioinformatics/article/37/13/1828/6104842?guestAccessKey=},
+  google_scholar_id = {IjCSPb-OGe4C},
+  preview={isomirmap.jpeg},
+  doi= {10.1093/bioinformatics/btab016},
+  abstract={Motivation:
+MicroRNA (miRNA) precursor arms give rise to multiple isoforms simultaneously called ‘isomiRs.’ IsomiRs from the same arm typically differ by a few nucleotides at either their 5′ or 3′ termini or both. In humans, the identities and abundances of isomiRs depend on a person’s sex and genetic ancestry as well as on tissue type, tissue state and disease type/subtype. Moreover, nearly half of the time the most abundant isomiR differs from the miRNA sequence found in public databases. Accurate mining of isomiRs from deep sequencing data is thus important.
+
+Results:
+We developed isoMiRmap, a fast, standalone, user-friendly mining tool that identifies and quantifies all isomiRs by directly processing short RNA-seq datasets. IsoMiRmap is a portable ‘plug-and-play’ tool, requires minimal setup, has modest computing and storage requirements, and can process an RNA-seq dataset with 50 million reads in just a few minutes on an average laptop. IsoMiRmap deterministically and exhaustively reports all isomiRs in a given deep sequencing dataset and quantifies them accurately (no double-counting). IsoMiRmap comprehensively reports all miRNA precursor locations from which an isomiR may be transcribed, tags as ‘ambiguous’ isomiRs whose sequences exist both inside and outside of the space of known miRNA sequences and reports the public identifiers of common single-nucleotide polymorphisms and documented somatic mutations that may be present in an isomiR. IsoMiRmap also identifies isomiRs with 3’ non-templated post-transcriptional additions. Compared to similar tools, isoMiRmap is the fastest, reports more bona fide isomiRs, and provides the most comprehensive information related to an isomiR’s transcriptional origin.
+
+Availability and implementation:
+The codes for isoMiRmap are freely available at https://cm.jefferson.edu/isoMiRmap/ and https://github.com/TJU-CMC-Org/isoMiRmap/. IsomiR profiles for the datasets of the 1000 Genomes Project, spanning five population groups, and The Cancer Genome Atlas (TCGA), spanning 33 cancer studies, are also available at https://cm.jefferson.edu/isoMiRmap/.
+
+Supplementary information:
+Supplementary data are available at Bioinformatics online.}
+}
+
+@article{cherlin2020ribosomal,
+  title={Ribosomal RNA fragmentation into short RNAs (rRFs) is modulated in a sex-and population of origin-specific manner},
+  author={Cherlin, Tess and Magee, Rogan and Jing, Yi and Pliatsika, Venetia and Loher, Phillipe and Rigoutsos, Isidore},
+  journal={Bmc Biology},
+  volume={18},
+  number={1},
+  pages={38},
+  year={2020},
+  publisher={Springer}
+  html={https://link.springer.com/article/10.1186/s12915-020-0763-0},
+  google_scholar_id = {Tyk-4Ss8FVUC},
+  preview={rrna.png},
+  doi= {10.1186/s12915-020-0763-0},
+  abstract={Background:
+
+The advent of next generation sequencing (NGS) has allowed the discovery of short and long non-coding RNAs (ncRNAs) in an unbiased manner using reverse genetics approaches, enabling the discovery of multiple categories of ncRNAs and characterization of the way their expression is regulated. We previously showed that the identities and abundances of microRNA isoforms (isomiRs) and transfer RNA-derived fragments (tRFs) are tightly regulated, and that they depend on a person’s sex and population origin, as well as on tissue type, tissue state, and disease type. Here, we characterize the regulation and distribution of fragments derived from ribosomal RNAs (rRNAs). rRNAs form a group that includes four (5S, 5.8S, 18S, 28S) rRNAs encoded by the human nuclear genome and two (12S, 16S) by the mitochondrial genome. rRNAs constitute the most abundant RNA type in eukaryotic cells.
+
+Results:
+
+We analyzed rRNA-derived fragments (rRFs) across 434 transcriptomic datasets obtained from lymphoblastoid cell lines (LCLs) derived from healthy participants of the 1000 Genomes Project. The 434 datasets represent five human populations and both sexes. We examined each of the six rRNAs and their respective rRFs, and did so separately for each population and sex. Our analysis shows that all six rRNAs produce rRFs with unique identities, normalized abundances, and lengths. The rRFs arise from the 5′-end (5′-rRFs), the interior (i-rRFs), and the 3′-end (3′-rRFs) or straddle the 5′ or 3′ terminus of the parental rRNA (x-rRFs). Notably, a large number of rRFs are produced in a population-specific or sex-specific manner. Preliminary evidence suggests that rRF production is also tissue-dependent. Of note, we find that rRF production is not affected by the identity of the processing laboratory or the library preparation kit.
+
+Conclusions:
+
+Our findings suggest that rRFs are produced in a regimented manner by currently unknown processes that are influenced by both ubiquitous as well as population-specific and sex-specific factors. The properties of rRFs mirror the previously reported properties of isomiRs and tRFs and have implications for the study of homeostasis and disease.}
+}
+
 @article{telonis2019trna,
   title={tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities},
   author={Telonis, Aristeidis G and Loher, Phillipe and Magee, Rogan and Pliatsika, Venetia and Londin, Eric and Kirino, Yohei and Rigoutsos, Isidore},
@@ -12,7 +65,7 @@
   publisher={American Association for Cancer Research},
   html={https://aacrjournals.org/cancerres/article/79/12/3034/635035/tRNA-Fragments-Show-Intertwining-with-mRNAs-of?guestAccessKey=},
   google_scholar_id = {u5HHmVD_uO8C},
-  preview={trna_mrna.jpeg},
+  preview={trna_mrna.png},
   doi= {10.1158/0008-5472.CAN-19-0789},
   abstract={tRNA-derived fragments (tRF) are a class of potent regulatory RNAs. We mined the datasets from The Cancer Genome Atlas (TCGA) representing 32 cancer types with a deterministic and exhaustive pipeline for tRNA fragments. We found that mitochondrial tRNAs contribute disproportionally more tRFs than nuclear tRNAs. Through integrative analyses, we uncovered a multitude of statistically significant and context-dependent associations between the identified tRFs and mRNAs. In many of the 32 cancer types, these associations involve mRNAs from developmental processes, receptor tyrosine kinase signaling, the proteasome, and metabolic pathways that include glycolysis, oxidative phosphorylation, and ATP synthesis. Even though the pathways are common to multiple cancers, the association of specific mRNAs with tRFs depends on and differs from cancer to cancer. The associations between tRFs and mRNAs extend to genomic properties as well; specifically, tRFs are positively correlated with shorter genes that have a higher density in repeats, such as ALUs, MIRs, and ERVLs. Conversely, tRFs are negatively correlated with longer genes that have a lower repeat density, suggesting a possible dichotomy between cell proliferation and differentiation. Analyses of bladder, lung, and kidney cancer data indicate that the tRF-mRNA wiring can also depend on a patient's sex. Sex-dependent associations involve cyclin-dependent kinases in bladder cancer, the MAPK signaling pathway in lung cancer, and purine metabolism in kidney cancer. Taken together, these findings suggest diverse and wide-ranging roles for tRFs and highlight the extensive interconnections of tRFs with key cellular processes and human genomic architecture.
 
@@ -63,7 +116,7 @@ Across 32 TCGA cancer contexts, nuclear and mitochondrial tRNA fragments exhibit
   publisher={Oxford University Press},
   html={https://academic.oup.com/bioinformatics/article/32/16/2481/2240429},
   google_scholar_id = {d1gkVwhDpl0C},
-  preview={mintbase_v1_img1.jpg},
+  preview={mintbase_v1_img1.gif},
   doi= {10.1093/bioinformatics/btw194},
   abstract = {Motivation: It has been known that mature transfer RNAs (tRNAs) that are encoded in the nuclear genome give rise to short molecules, collectively known as tRNA fragments or tRFs. Recently, we reported that, in healthy individuals and in patients, tRFs are constitutive, arise from mitochondrial as well as from nuclear tRNAs, and have composition and abundances that depend on a person’s sex, population origin and race as well as on tissue, disease and disease subtype. Our findings as well as similar work by other groups highlight the importance of tRFs and presage an increase in the community’s interest in elucidating the roles of tRFs in health and disease.
 
