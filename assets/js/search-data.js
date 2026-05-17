@@ -56,15 +56,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-released-pre-print-of-a-new-manuscript-discussing-a-new-explanation-lifecycle-and-shapley-value-explainability-cards",
+          title: 'Released pre-print of a new manuscript discussing a new explanation lifecycle, and Shapley...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
