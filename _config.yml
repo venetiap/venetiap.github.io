@@ -615,3 +615,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+# -----------------------------------------------------------------------------
+# Exclude
+# -----------------------------------------------------------------------------
+exclude:
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
