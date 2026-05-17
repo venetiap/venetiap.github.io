@@ -105,10 +105,10 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: false
-  teachings:
-    output: false
+  # projects:
+  #   output: false
+  # teachings:
+  #   output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -149,7 +149,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _projects/?_project.md
+  - _projects/
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
