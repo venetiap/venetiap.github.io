@@ -154,7 +154,7 @@ exclude:
   - _teachings/
   - _pages/teaching.md
   - _pages/profiles.md
-  - _pages/repositiories.md
+  - _pages/repositories.md
   - _includes/repository/
 keep_files:
   - CNAME
