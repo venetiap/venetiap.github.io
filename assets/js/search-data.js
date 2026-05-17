@@ -103,7 +103,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("www.linkedin.com/in/venetia-pliatsika-046a8879", "_blank");
+          window.open("https://www.linkedin.com/in/venetia-pliatsika-046a8879", "_blank");
         },
       },{
       id: 'light-theme',
