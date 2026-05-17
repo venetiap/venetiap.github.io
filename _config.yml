@@ -105,10 +105,10 @@ collections:
     defaults:
       layout: post
     output: true
-  # projects:
-  #   output: false
-  # teachings:
-  #   output: false
+  projects:
+    output: false
+  teachings:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -151,9 +151,6 @@ exclude:
   - vendor
   - _projects/
   - _pages/projects.md
-  - _pages/profiles.md
-  - _pages/repositories.md
-  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
