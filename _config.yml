@@ -99,8 +99,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  # books:
-  #   output: false
+  books:
+    output: false
   news:
     defaults:
       layout: post
@@ -150,8 +150,6 @@ exclude:
   - readme_preview/
   - vendor
   - _projects/
-  - _books/
-  - _teachings/
   - _pages/projects.md
   - _pages/profiles.md
   - _pages/repositories.md
