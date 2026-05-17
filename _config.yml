@@ -105,10 +105,10 @@ collections:
     defaults:
       layout: post
     output: true
-  # projects:
-  #   output: false
-  # teachings:
-  #   output: false
+  projects:
+    output: false
+  teachings:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
