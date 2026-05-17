@@ -58,8 +58,8 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=psDBoCwAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/venetia-pliatsika-046a8879", "_blank");
