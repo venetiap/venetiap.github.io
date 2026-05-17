@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.nyu.edu/academics/departments/computer-science-and-engineering'>NYU Computer Science and Engineering</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://engineering.nyu.edu/academics/departments/computer-science-and-engineering'>NYU Computer Science and Engineering</a>.
 
 profile:
   align: right
