@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-sharp-was-presented-at-vldb-2025-in-london",
+          title: 'ShaRP was presented at VLDB 2025 in London!',
           description: "",
           section: "News",},{id: "news-released-pre-print-of-a-new-manuscript-discussing-a-new-explanation-lifecycle-and-shapley-value-explainability-cards",
           title: 'Released pre-print of a new manuscript discussing a new explanation lifecycle, and Shapley...',
