@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>venetia [at] nyu.edu</p>
-    <p>New York University</p>
+    <p>New York University,</p>
     <p>New York</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,4 +23,4 @@ announcements:
 
 ---
 
-Description
+Description.
