@@ -157,7 +157,6 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - _pages/news.md
 
 # Plug-ins
 plugins:
