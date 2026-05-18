@@ -19,18 +19,18 @@ cv:
   sections:
     Education:
       - institution: New York University
-        location: New York, NY, United States
+        location: New York, NY
         url: https://engineering.nyu.edu/academics/departments/computer-science-and-engineering
-        area: Computer Science
+        area: Computer Science and Engineering
         studyType: PhD
         start_date: 2022
         end_date: 2027
 
       - institution: University of Pennsylvania
-        location: Philadelphia, PA, United States
+        location: Philadelphia, PA
         url: https://www.cis.upenn.edu/
-        area: Computer Science
-        studyType: Masters
+        area: Computer and Information Science
+        studyType: Masters of Science
         start_date: 2011
         end_date: 2013
 
