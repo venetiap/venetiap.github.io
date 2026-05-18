@@ -5,13 +5,9 @@ cv:
   image: ""
   summary: Researcher in Explainable Artificial Intelligence (XAI) and Computational Biology
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: venetia-pliatsika-046a8879
+  # social_networks:
+  #   - network: LinkedIn
+  #     username: venetia-pliatsika-046a8879
 
   address:
     street: 
