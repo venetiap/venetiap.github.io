@@ -2,8 +2,7 @@ cv:
   name: Venetia Pliatsika
   label: PhD candidate
   email: venetia@nyu.edu
-  # location: New York University, New York, New York
-  image: ""
+  location: New York University
   summary: Researcher in Explainable Artificial Intelligence (XAI) and Computational Biology
 
   social_networks:
