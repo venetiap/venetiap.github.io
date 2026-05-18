@@ -73,7 +73,8 @@ cv:
       - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
         position: Local Information co-Chair
         location: Athens, Greece
-        date: 2025-06
+        start-date: 2025-06-23
+        end-date: 2025-06-26
 
     # Awards:
     #   - title: Nobel Prize in Physics
