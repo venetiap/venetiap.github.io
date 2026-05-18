@@ -45,6 +45,7 @@ cv:
     Experience:
       - company: Thomas Jefferson University, Computational Medicine Center, College of Life Sciences
         position: Research Software Engineer
+        url: https://cm.jefferson.edu/
         location: Philadelphia, PA
         start_date: 2013
         end_date: 2022
