@@ -36,8 +36,8 @@ ninja.data = [{
             },},{id: "news-sharp-was-presented-at-vldb-2025-in-london",
           title: 'ShaRP was presented at VLDB 2025 in London!',
           description: "",
-          section: "News",},{id: "news-explainability-cards-and-a-new-explanation-lifecycle-in-the-position-we-need-to-explain-our-explanations-we-take-a-deep-look-into-how-shapley-value-explanations-are-currently-produced-discuss-the-pitfalls-of-the-current-approaches-and-introduce-several-new-concepts-to-address-the-issue-of-having-multiple-concurrent-valid-explanations-for-the-same-model-and-instance-we-discuss-explanation-multiplicity-1-and-show-how-it-can-be-expresed-as-a-parmetrization-problem-we-how-it-poses-both-a-threat-and-an-opportunity-for-explainability-we-issue-a-call-to-action-and-introduce-a-new-explanation-lifecycle-a-novel-unified-shapley-value-definition-and-shapley-value-explainability-cards-1",
-          title: 'Explainability cards and a new explanation lifecycle. In the position “We need to...',
+          section: "News",},{id: "news-released-a-pre-print-of-a-new-manuscript-that-discusses-explanation-multiplicity-issues-a-call-to-action-to-incorporate-context-of-use-into-explanations-and-introduces-a-unified-shapley-value-definition-a-new-explanation-lifecycle-and-shapley-value-explainability-cards",
+          title: 'Released a pre-print of a new manuscript that discusses explanation multiplicity, issues a...',
           description: "",
           section: "News",},{
         id: 'social-email',
