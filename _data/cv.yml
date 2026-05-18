@@ -54,12 +54,12 @@ cv:
         start_date: 2013
         end_date: 2022
 
-    Volunteer/Service:
-      - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
-        position: Local Information co-Chair
-        location: Athens, Greece
-        start-date: 2025-06-23
-        end-date: 2025-06-26
+    # Volunteer/Service:
+    #   - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
+    #     position: Local Information co-Chair
+    #     location: Athens, Greece
+    #     start-date: 2025-06-23
+    #     end-date: 2025-06-26
 
     # Awards:
     #   - title: Nobel Prize in Physics
