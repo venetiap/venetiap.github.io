@@ -35,6 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "books-test",
+          title: 'Test',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/test.html";
             },},{id: "news-sharp-was-presented-at-vldb-2025-in-london",
           title: 'ShaRP was presented at VLDB 2025 in London!',
           description: "",
