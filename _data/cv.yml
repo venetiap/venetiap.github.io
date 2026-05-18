@@ -2,7 +2,6 @@ cv:
   name: Venetia Pliatsika
   label: PhD candidate
   email: venetia@nyu.edu
-  location: NY, NY
   image: ""
   summary: Researcher in Explainable Artificial Intelligence (XAI) and Computational Biology
 
@@ -15,10 +14,10 @@ cv:
       username: venetia-pliatsika-046a8879
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 
+    city: New York
+    region: New York
+    postalCode: 
     countryCode: US
 
   sections:
