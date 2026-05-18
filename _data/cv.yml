@@ -1,7 +1,7 @@
 cv:
   name: Venetia Pliatsika
   label: PhD candidate
-  email: venetia [at] nyu.edu 
+  email: venetia@nyu.edu 
   location: New York University, New York, New York
   image: ""
   summary: Researcher in Explainable Artificial Intelligence (XAI) and Computational Biology
@@ -69,7 +69,7 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-    Volunteer/Service:
+    Volunteer:
       - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
         position: Local Information co-Chair
         location: Athens, Greece
