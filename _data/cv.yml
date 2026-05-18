@@ -7,19 +7,19 @@ cv:
   summary: Researcher in Explainable Artificial Intelligence (XAI) and Computational Biology
 
   social_networks:
-    # - network: X
-    #   username: AlbertEinstein
-    # - network: GitHub
-    #   username: example
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
     - network: LinkedIn
       username: venetia-pliatsika-046a8879
 
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
     Education:
@@ -30,11 +30,6 @@ cv:
         studyType: PhD
         start_date: 2022
         end_date: 2027
-        # score: ""
-        # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
 
       - institution: University of Pennsylvania
         location: Philadelphia, PA, United States
@@ -43,9 +38,6 @@ cv:
         studyType: Masters
         start_date: 2011
         end_date: 2013
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
 
       - institution: University of Athens
         location: Athens, Greece
@@ -54,9 +46,6 @@ cv:
         studyType: Bachelors
         start_date: 2004
         end_date: 2010
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
 
     Experience:
       - company: Thomas Jefferson University, Computational Medicine Center, College of Life Sciences
@@ -64,10 +53,6 @@ cv:
         location: Philadelphia, PA
         start_date: 2013
         end_date: 2022
-        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
     Volunteer/Service:
       - company: ACM Conference on Fairness, Accountability, and Transparency (FAccT)
