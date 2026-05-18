@@ -36,8 +36,8 @@ ninja.data = [{
             },},{id: "news-sharp-was-presented-at-vldb-2025-in-london",
           title: 'ShaRP was presented at VLDB 2025 in London!',
           description: "",
-          section: "News",},{id: "news-released-pre-print-of-a-new-manuscript-discussing-a-new-explanation-lifecycle-and-shapley-value-explainability-cards",
-          title: 'Released pre-print of a new manuscript discussing a new explanation lifecycle, and Shapley...',
+          section: "News",},{id: "news-released-pre-print-of-a-new-manuscript-discussing-explanation-multiplicity-issuing-a-call-to-action-and-introducing-a-unified-shapley-value-definition-a-new-explanation-lifecycle-and-shapley-value-explainability-cards",
+          title: 'Released pre-print of a new manuscript discussing explanation multiplicity, issuing a call to...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
