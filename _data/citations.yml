@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-05'
 papers:
   psDBoCwAAAAJ:IjCSPb-OGe4C:
     citations: 36
     title: 'IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets'
     year: '2021'
   psDBoCwAAAAJ:LkGwnXOMwfcC:
-    citations: 11
+    citations: 12
     title: 'ShaRP: Explaining Rankings and Preferences with Shapley Values'
     year: '2025'
   psDBoCwAAAAJ:Tyk-4Ss8FVUC:
@@ -14,9 +14,13 @@ papers:
     title: Ribosomal RNA fragmentation into short RNAs (rRFs) is modulated in a sex-and population of origin-specific manner
     year: '2020'
   psDBoCwAAAAJ:UeHWp8X0CEIC:
-    citations: 170
+    citations: 171
     title: "\u201COff-Spotter\u201D: very fast and exhaustive enumeration of genomic lookalikes for designing CRISPR/Cas guide RNAs"
     year: '2015'
+  psDBoCwAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: We need to explain our explanations
+    year: '2026'
   psDBoCwAAAAJ:WF5omc3nYNoC:
     citations: 9
     title: The subcellular distribution of miRNA isoforms, tRNA-derived fragments, and rRNA-derived fragments depends on nucleotide sequence and cell type
@@ -30,11 +34,11 @@ papers:
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
-    citations: 16
+    citations: 18
     title: SHAP-based Explanations are Sensitive to Feature Representation
     year: '2025'
   psDBoCwAAAAJ:d1gkVwhDpl0C:
-    citations: 132
+    citations: 133
     title: 'MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments'
     year: '2016'
   psDBoCwAAAAJ:qjMakFHDy7sC:
@@ -42,10 +46,10 @@ papers:
     title: Profit sharing and efficiency in utility games
     year: '2017'
   psDBoCwAAAAJ:u5HHmVD_uO8C:
-    citations: 91
+    citations: 92
     title: tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities
     year: '2019'
   psDBoCwAAAAJ:zYLM7Y9cAGgC:
-    citations: 224
+    citations: 227
     title: 'MINTbase v2. 0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects'
     year: '2018'
