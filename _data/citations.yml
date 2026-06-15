@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   psDBoCwAAAAJ:IjCSPb-OGe4C:
     citations: 36
@@ -10,7 +10,7 @@ papers:
     title: 'ShaRP: Explaining Rankings and Preferences with Shapley Values'
     year: '2025'
   psDBoCwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 74
+    citations: 75
     title: Ribosomal RNA fragmentation into short RNAs (rRFs) is modulated in a sex-and population of origin-specific manner
     year: '2020'
   psDBoCwAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: "RNase \u03BA promotes robust piRNA production by generating 2\u2032, 3\u2032-cyclic phosphate-containing precursors"
     year: '2021'
   psDBoCwAAAAJ:YsMSGLbcyi4C:
-    citations: 16
+    citations: 17
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
@@ -50,6 +50,6 @@ papers:
     title: tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities
     year: '2019'
   psDBoCwAAAAJ:zYLM7Y9cAGgC:
-    citations: 227
+    citations: 228
     title: 'MINTbase v2. 0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects'
     year: '2018'
