@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-17'
 papers:
+  psDBoCwAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: We need to explain our explanations
+    year: '2026'
   psDBoCwAAAAJ:IjCSPb-OGe4C:
     citations: 36
     title: 'IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets'
@@ -17,10 +21,6 @@ papers:
     citations: 171
     title: "\u201COff-Spotter\u201D: very fast and exhaustive enumeration of genomic lookalikes for designing CRISPR/Cas guide RNAs"
     year: '2015'
-  psDBoCwAAAAJ:UebtZRa9Y70C:
-    citations: 0
-    title: We need to explain our explanations
-    year: '2026'
   psDBoCwAAAAJ:WF5omc3nYNoC:
     citations: 9
     title: The subcellular distribution of miRNA isoforms, tRNA-derived fragments, and rRNA-derived fragments depends on nucleotide sequence and cell type
