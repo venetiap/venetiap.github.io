@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-08'
 papers:
   psDBoCwAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Ribosomal RNA fragmentation into short RNAs (rRFs) is modulated in a sex-and population of origin-specific manner
     year: '2020'
   psDBoCwAAAAJ:UeHWp8X0CEIC:
-    citations: 171
+    citations: 174
     title: "\u201COff-Spotter\u201D: very fast and exhaustive enumeration of genomic lookalikes for designing CRISPR/Cas guide RNAs"
     year: '2015'
   psDBoCwAAAAJ:WF5omc3nYNoC:
@@ -34,11 +34,11 @@ papers:
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
-    citations: 18
+    citations: 22
     title: SHAP-based Explanations are Sensitive to Feature Representation
     year: '2025'
   psDBoCwAAAAJ:d1gkVwhDpl0C:
-    citations: 133
+    citations: 134
     title: 'MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments'
     year: '2016'
   psDBoCwAAAAJ:qjMakFHDy7sC:
@@ -50,6 +50,6 @@ papers:
     title: tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities
     year: '2019'
   psDBoCwAAAAJ:zYLM7Y9cAGgC:
-    citations: 228
+    citations: 230
     title: 'MINTbase v2. 0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects'
     year: '2018'
