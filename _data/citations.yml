@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-15'
 papers:
   psDBoCwAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: We need to explain our explanations
     year: '2026'
   psDBoCwAAAAJ:IjCSPb-OGe4C:
-    citations: 36
+    citations: 37
     title: 'IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets'
     year: '2021'
   psDBoCwAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: "\u201COff-Spotter\u201D: very fast and exhaustive enumeration of genomic lookalikes for designing CRISPR/Cas guide RNAs"
     year: '2015'
   psDBoCwAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 10
     title: The subcellular distribution of miRNA isoforms, tRNA-derived fragments, and rRNA-derived fragments depends on nucleotide sequence and cell type
     year: '2024'
   psDBoCwAAAAJ:Y0pCki6q_DkC:
@@ -30,7 +30,7 @@ papers:
     title: "RNase \u03BA promotes robust piRNA production by generating 2\u2032, 3\u2032-cyclic phosphate-containing precursors"
     year: '2021'
   psDBoCwAAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 18
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
