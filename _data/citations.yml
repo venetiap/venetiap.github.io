@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-31'
 papers:
   psDBoCwAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: "RNase \u03BA promotes robust piRNA production by generating 2\u2032, 3\u2032-cyclic phosphate-containing precursors"
     year: '2021'
   psDBoCwAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 17
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
@@ -42,7 +42,7 @@ papers:
     title: 'MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments'
     year: '2016'
   psDBoCwAAAAJ:qjMakFHDy7sC:
-    citations: 53
+    citations: 54
     title: Profit sharing and efficiency in utility games
     year: '2017'
   psDBoCwAAAAJ:u5HHmVD_uO8C:
@@ -50,6 +50,6 @@ papers:
     title: tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities
     year: '2019'
   psDBoCwAAAAJ:zYLM7Y9cAGgC:
-    citations: 230
+    citations: 231
     title: 'MINTbase v2. 0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects'
     year: '2018'
