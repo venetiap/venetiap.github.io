@@ -6,50 +6,50 @@ papers:
     title: We need to explain our explanations
     year: '2026'
   psDBoCwAAAAJ:IjCSPb-OGe4C:
-    citations: 37
+    citations: 41
     title: 'IsoMiRmap: fast, deterministic and exhaustive mining of isomiRs from short RNA-seq datasets'
     year: '2021'
   psDBoCwAAAAJ:LkGwnXOMwfcC:
-    citations: 12
+    citations: 15
     title: 'ShaRP: Explaining Rankings and Preferences with Shapley Values'
     year: '2025'
   psDBoCwAAAAJ:Tyk-4Ss8FVUC:
-    citations: 75
+    citations: 86
     title: Ribosomal RNA fragmentation into short RNAs (rRFs) is modulated in a sex-and population of origin-specific manner
     year: '2020'
   psDBoCwAAAAJ:UeHWp8X0CEIC:
-    citations: 174
+    citations: 179
     title: "\u201COff-Spotter\u201D: very fast and exhaustive enumeration of genomic lookalikes for designing CRISPR/Cas guide RNAs"
     year: '2015'
   psDBoCwAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 17
     title: The subcellular distribution of miRNA isoforms, tRNA-derived fragments, and rRNA-derived fragments depends on nucleotide sequence and cell type
     year: '2024'
   psDBoCwAAAAJ:Y0pCki6q_DkC:
-    citations: 17
+    citations: 19
     title: "RNase \u03BA promotes robust piRNA production by generating 2\u2032, 3\u2032-cyclic phosphate-containing precursors"
     year: '2021'
   psDBoCwAAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 22
     title: 'MINRbase: a comprehensive database of nuclear-and mitochondrial-ribosomal-RNA-derived fragments (rRFs)'
     year: '2024'
   psDBoCwAAAAJ:_FxGoFyzp5QC:
-    citations: 22
+    citations: 31
     title: SHAP-based Explanations are Sensitive to Feature Representation
     year: '2025'
   psDBoCwAAAAJ:d1gkVwhDpl0C:
-    citations: 134
+    citations: 138
     title: 'MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments'
     year: '2016'
   psDBoCwAAAAJ:qjMakFHDy7sC:
-    citations: 54
+    citations: 57
     title: Profit sharing and efficiency in utility games
     year: '2017'
   psDBoCwAAAAJ:u5HHmVD_uO8C:
-    citations: 92
+    citations: 98
     title: tRNA fragments show intertwining with mRNAs of specific repeat content and have links to disparities
     year: '2019'
   psDBoCwAAAAJ:zYLM7Y9cAGgC:
-    citations: 231
+    citations: 256
     title: 'MINTbase v2. 0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects'
     year: '2018'
